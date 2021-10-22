@@ -1,0 +1,8 @@
+drive06 7 15.5 75123
+drive06.dat 16x32 1000 16 0 -48 16188 0 ECG
+drive06.dat 16 1000 16 0 124 -21359 0 EMG
+drive06.dat 16x2 1000 16 0 9051 1728 0 foot GSR
+drive06.dat 16x2 1000 16 0 19072 -5084 0 hand GSR
+drive06.dat 16 1/bpm 16 0 90 2476 0 HR
+drive06.dat 16 100 16 0 1236 24655 0 marker
+drive06.dat 16x2 100 16 0 3997 21786 0 RESP

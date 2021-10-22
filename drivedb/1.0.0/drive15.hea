@@ -1,0 +1,9 @@
+drive15 7 15.5 72209
+drive15.dat 16x31 1000 16 0 -197 -3701 0 ECG
+drive15.dat 16 1000 16 0 435 30502 0 EMG
+drive15.dat 16x2 1000 16 0 8171 2360 0 foot GSR
+drive15.dat 16x2 1000 16 0 7353 -25142 0 hand GSR
+drive15.dat 16 1/bpm 16 0 91 18008 0 HR
+drive15.dat 16 100 16 0 1017 13796 0 marker
+drive15.dat 16x2 100 16 0 5148 17628 0 RESP
+

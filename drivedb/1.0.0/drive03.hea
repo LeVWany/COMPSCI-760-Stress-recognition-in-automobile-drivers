@@ -1,0 +1,5 @@
+drive03 4 31 172447
+drive03.dat 16x16 1000 16 0 0 -15237 0 ECG
+drive03.dat 16 1000 16 0 0 -3025 0 foot GSR
+drive03.dat 16 1000 16 0 0 -30743 0 hand GSR
+drive03.dat 16 1000 16 0 0 17034 0 RESP
